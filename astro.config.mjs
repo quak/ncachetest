@@ -7,7 +7,7 @@ export default defineConfig({
   output: "server",
   adapter: vercel(
     {
-        isr: true,
+        
     }
   )
 });
